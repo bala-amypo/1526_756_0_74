@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 import java.util.List;
 
 @Configuration
-public class Swagggerconfig {
+public class Swaggerconfig {
 
     @Bean
     public OpenAPI customOpenAPI() {
